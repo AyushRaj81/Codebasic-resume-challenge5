@@ -3,13 +3,18 @@ Domain:  Tourism | Function: Revenue / Municipal Administration
 
 Project Overview
 
-Telangana is one of India’s leading states and has published its tourism data under its open data policy.As a data analyst my task is to analyze the given visitor data for 2016-2019 do research and provide data imformtion recommendations to the telangana government which can be used to increase their revenue by improving administrative operation
+Telangana is one of India’s leading states and has published its tourism data under its open data policy.As a data analyst my task is to analyze the given visitor data for 2016-2019 and answering the research question provided and provide data imformtion recommendations to the telangana government which can be used to increase their revenue by improving administrative operation
 
 Resources provided:
+
 a.    Dataset required to answer preliminary research questions.
+
 b.    Metadata
+
 c.    Instructions for using dataset.
+
 d.    Sample Presentation
+
 
 In my project, I encountered a data set consisting of two folders. One folder contained domestic tourist data, which included separate files for the years 2016 to 2019. The other folder contained foreign tourist data specific to the region of Telangana, also organized into separate files for the same time period.
 
