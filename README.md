@@ -23,6 +23,7 @@ To merge these data sets, I leveraged the capabilities of the Python pandas libr
 Similarly, I repeated the process for the foreign tourist data from the Telangana folder. Reading and loading the foreign tourist data files into separate DataFrames for each year, I then concatenated them together to obtain a merged foreign tourist dataset specific to Telangana.
 
 To merge the domestic and foreign tourist datasets, I employed pandas' merge function. By specifying a common key, such as a unique identifier for each record, I combined the two datasets into a final merged dataset. This merged dataset contained information on both domestic and foreign tourist data for the years 2016 to 2019.
+link of jupyter notebook of merging multiple file: https://jovian.com/ayushraj21042002/mergingmultiple-file
 
 Once the data merging was complete, I utilized the openxlsx library to export the merged dataset into an Excel file. This allowed for further analysis and manipulation using Excel's extensive functionalities.
 
