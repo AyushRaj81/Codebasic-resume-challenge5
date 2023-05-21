@@ -48,7 +48,8 @@ The "year" column represents the year in which the data was recorded. It allows 
 The "no of visitors" column holds the recorded number of visitors for a given district, date, month, and year combination. This numerical data is crucial for analyzing visitor patterns, identifying popular tourist destinations within Telangana, and evaluating the overall tourism growth or decline in specific districts over time.
 
 # link of project challenge : https://codebasics.io/challenge/codebasics-resume-project-challenge
-# link of video prejentation : 
+# link of video prejentation : https://lnkd.in/dk_4Mfef
+
 
 
 
