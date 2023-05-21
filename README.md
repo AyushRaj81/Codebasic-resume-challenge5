@@ -18,11 +18,14 @@ d.    Sample Presentation
 
 In my project, I encountered a data set consisting of two folders. One folder contained domestic tourist data, which included separate files for the years 2016 to 2019. The other folder contained foreign tourist data specific to the region of Telangana, also organized into separate files for the same time period.
 
+Tools used for completion of project
+
 To merge these data sets, I leveraged the capabilities of the Python pandas library. I began by reading and loading the domestic tourist data files into a pandas DataFrame, creating a separate DataFrame for each year. Using pandas' concatenation function, I combined these separate DataFrames into a single DataFrame, resulting in a merged domestic tourist dataset.
 
 Similarly, I repeated the process for the foreign tourist data from the Telangana folder. Reading and loading the foreign tourist data files into separate DataFrames for each year, I then concatenated them together to obtain a merged foreign tourist dataset specific to Telangana.
 
 To merge the domestic and foreign tourist datasets, I employed pandas' merge function. By specifying a common key, such as a unique identifier for each record, I combined the two datasets into a final merged dataset. This merged dataset contained information on both domestic and foreign tourist data for the years 2016 to 2019.
+
 link of jupyter notebook of merging multiple file: https://jovian.com/ayushraj21042002/mergingmultiple-file
 
 Once the data merging was complete, I utilized the openxlsx library to export the merged dataset into an Excel file. This allowed for further analysis and manipulation using Excel's extensive functionalities.
@@ -31,7 +34,7 @@ Once the data merging was complete, I utilized the openxlsx library to export th
 
 To present the project's accomplishments in a professional and engaging manner, I turned to Microsoft PowerPoint. PowerPoint provided a user-friendly interface to create visually compelling slides. I incorporated the charts and graphs created in Excel into PowerPoint slides, combining data visualization with explanatory text to communicate the project's key takeaways concisely.
 
-# About the data set
+# About the data set 
 The dataset you described contains several columns: "district" which represents the district in Telangana, "date" for the specific date, "month" for the month of the recorded data, "year" indicating the year of the recorded data, and "no of visitors" representing the number of visitors in that particular district on the given date.
 
 The "district" column provides information about the specific regions within Telangana that were included in the dataset. This column allows for the analysis of tourism patterns and trends across different districts within the state.
